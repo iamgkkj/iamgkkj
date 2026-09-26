@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Gopal Krishan!
+# 👋 Hi there, I'm Gopal Krishn!
 
 **Machine Learning Engineer | AI Enthusiast | Full-Stack Developer**
 
